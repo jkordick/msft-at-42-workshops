@@ -1,4 +1,4 @@
-# These challenges have their origin in the [mictosoft/WhatTheHack Repo (Intro To Kubernetes)](https://github.com/microsoft/WhatTheHack) and have been simplified to fit more into our workshop format.
+# These challenges have their origin in the [microsoft/WhatTheHack Repo (Intro To Kubernetes)](https://github.com/microsoft/WhatTheHack) and have been simplified to fit more into our workshop format.
 
 # What The Hack - Container Intro
 
