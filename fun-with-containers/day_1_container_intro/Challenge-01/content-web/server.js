@@ -19,7 +19,7 @@ if ('development' == app.get('env')) {
 }
 
 // all environments
-app.set('port', 3000);
+app.set('port', 3002);
 app.set('views', path.join(__dirname, 'public'));
 app.use(express.favicon());
 app.use(express.logger('dev'));

@@ -17,9 +17,9 @@ In this hack you will solve a common challenge for companies migrating to the cl
 
 ## Challenges
 
-- Challenge 00: **[Prerequisites - Ready, Set, GO!](Student/Challenge-00.md)**
+- Challenge 00: **[Prerequisites - Ready, Set, GO!](Challenge-00.md)**
 	 - Prepare your workstation to work with Docker containers.
-- Challenge 01: **[Got Containers?](Student/Challenge-01.md)**
+- Challenge 01: **[Got Containers?](Challenge-01.md)**
 	 - Package the "FabMedical" app into a Docker container and run it locally.
 
 ## Original contributors (thank you, you rock <3)
